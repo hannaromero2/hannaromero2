@@ -1,10 +1,16 @@
 ### Hi there 👋
 
-<a href="https://www.instagram.com/abhishknads/">
+<a href="mailto:hannaromero2@gmail.com">
+  <img align="left" alt="hanna's Mail" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://www.instagram.com/hanna_romero1234/">
   <img align="left" alt="hanna's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
 <a href="https://www.linkedin.com/in/hanna-dominique-romero-solano-5184701a2/">
   <img align="left" alt="hanna's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://public.tableau.com/app/profile/hanna2006">
+  <img align="left" alt="hanna's Tableu public" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/hannaromero2?si=ff737ede578c4528">
   <img align="left" alt="hanna's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
