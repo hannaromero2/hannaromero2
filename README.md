@@ -27,7 +27,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+Student;Cat+person;Flat+White+lover;Always%20learning%20new%20things;Ui+Ux+designer&center=true&color=%23AF8EFF&width=500&height=50"></a>
 </p>
-
+<br/><br/>
 
 Hi, I'm [Hanna Romero](https://github.com/hannaromero2), a passionate self-taught web developer and tech enthusiast.
 <br/><br/>
