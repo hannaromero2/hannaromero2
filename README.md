@@ -1,4 +1,6 @@
 <H3 align="center">Welcome to my profile✨ </H3>
+
+
 <!-- <p align="center"><b> Connect with me<b></p> -->
 <p align="center">
 <a href="mailto:hannaromero2@gmail.com">
@@ -13,9 +15,15 @@
 <a href="https://public.tableau.com/app/profile/hanna2006">
   <img align="center" alt="hanna's Tableu public" width="22px" src="https://github.com/hannaromero2/hannaromero2/blob/main/src/tableu_logo.svg" />
 </a>
-<a href="https://open.spotify.com/user/hannaromero2?si=ff737ede578c4528">
+ 
+
+<!-- <a href="https://open.spotify.com/user/hannaromero2?si=ff737ede578c4528">
   <img align="center" alt="hanna's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+</a> -->
+  <p align="center">
+<img align="center" src="https://komarev.com/ghpvc/?username=hannaromero2&label=Profile%20views&color=blueviolet&style=flat-square"
+    alt="Hannaromero2" /> 
+ </p>
 </p>
 <br/>
 
