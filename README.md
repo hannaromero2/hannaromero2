@@ -41,7 +41,7 @@ Hi, I'm [Hanna Romero](https://github.com/hannaromero2), a passionate self-taugh
 <br/><br/>
 I really like being able to create web pages in my free time.
 <br/><br/>
-I am 21 years old, I am currently in my last year of the Bachelor's degree in technology and software development at [Universidad Modelo](https://www.unimodelo.edu.mx/).
+I am 22 years old, I´ve a degree in technology and software development at [Universidad Modelo](https://www.unimodelo.edu.mx/).
 <br/><br/>
 One of the reasons I decided to be a software engineer is because everything is possible with code.
 <br/><br/>
