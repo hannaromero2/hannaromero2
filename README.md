@@ -85,7 +85,7 @@ I'm always interested in discussing:
 - 🛠 Backend architecture and clean code
 - 🌱 Learning new tools and sharing ideas
 
-📫 &nbsp;Reach out via [GitHub](https://github.com/hannaromero2) or [LinkedIn](https://www.linkedin.com/in/hanna-dominique-romero-solano-5184701a2/)
+📫 &nbsp;Reach out via [GitHub](https://github.com/hannaromero2) or [LinkedIn](https://www.linkedin.com/in/hanna-romero-solano)
 
 <hr />
 
