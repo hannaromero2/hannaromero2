@@ -1,17 +1,11 @@
-# GitHub Action for generating a contribution graph with a snake eating your contributions.
-
 name: Generate Snake
 
 permissions:
   contents: write
 
-# Controls when the action will run. This action runs every 6 hours.
 on:
   schedule:
-    # every 6 hours
     - cron: "0 */6 * * *"
-
-  # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
 
 jobs:
@@ -19,22 +13,20 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # Checks repo under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
 
-      # Generates the snake
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: hannaromero2
           outputs: |
             dist/github-snake.svg
 
-      # Show the status of the build. Makes it easier for debugging (if there's any issues).
       - run: git status
 
-      # Push the changes to the output branch
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
           commit_message: "chore: update contribution snake"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
