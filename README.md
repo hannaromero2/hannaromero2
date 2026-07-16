@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.linkedin.com/in/hanna-dominique-romero-solano-5184701a2/">
+  <a href="https://www.linkedin.com/in/hanna-romero-solano">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:hannaromero2@gmail.com">
