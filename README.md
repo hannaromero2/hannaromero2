@@ -4,7 +4,7 @@
 <!-- <p align="center"><b> Connect with me<b></p> -->
 <p align="center">
 <a href="mailto:hannaromero2@gmail.com">
-  <img align="center" alt="hanna's Mail" width="22px" src="https://github.com/hannaromero2/hannaromero2/blob/main/src/gmail_logo.svg" />
+  <img align="center" alt="hanna's Mail" width="22px" src="https://raw.githubusercontent.com/hannaromero2/hannaromero2/main/src/gmail_logo.svg" />
 </a>
 <a href="https://www.instagram.com/hanna_romero1234/">
   <img align="center" alt="hanna's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
@@ -13,7 +13,7 @@
   <img align="center" alt="hanna's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://public.tableau.com/app/profile/hanna2006">
-  <img align="center" alt="hanna's Tableu public" width="22px" src="https://github.com/hannaromero2/hannaromero2/blob/main/src/tableu_logo.svg" />
+  <img align="center" alt="hanna's Tableu public" width="22px" src="https://raw.githubusercontent.com/hannaromero2/hannaromero2/main/src/tableu_logo.svg" />
 </a>
  
 
@@ -50,31 +50,31 @@ I take care of the design, architecture and code quality of the things I create.
 I am an enthusiast of developing intuitive applications that create a good user experience (UiUx).
 <br/><br/>
 I am constantly learning, I am currently interested in the area of industrial cybersecurity.
-<br/>  <img align="right" alt="Cat" src="https://github.com/hannaromero2/hannaromero2/blob/main/src/cat.png" width="300" height="auto" />
+<br/>  <img align="right" alt="Cat" src="https://raw.githubusercontent.com/hannaromero2/hannaromero2/main/src/cat.png" width="300" height="auto" />
 
 <br/><br/>
 ### Languages 
 <br/>
-<a href="https://www.python.org/" title="Python"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/python.png" /></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/javascript.png" /></a>
-<a href="http://csharp.net/" title="C#"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/csharp.png" /></a>
+<a href="https://www.python.org/" title="Python"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/python.png" /></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/javascript.png" /></a>
+<a href="http://csharp.net/" title="C#"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/csharp.png" /></a>
 <br/><br/>
 
 ### Databases i worked with
 <br/>
-<a href="https://www.mysql.com/" title="MySQL"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/mysql.png" /></a>
-<a href="https://mariadb.org/" title="MariaDB"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/mariadb.png" /></a>
+<a href="https://www.mysql.com/" title="MySQL"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/mysql.png" /></a>
+<a href="https://mariadb.org/" title="MariaDB"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/mariadb.png" /></a>
 
 <br/><br/>
 ### Tools
 <br/>
-<a href="https://reactjs.org/" title="React"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/react.png" /></a>
-<a href="https://git-scm.com/" title="Git"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/git.png" /></a>
-<a href="https://wordpress.org/" title="WordPress"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/wordpress.png" /></a>
-<a href="https://www.docker.com/" title="Docker"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/docker.png" /></a>
-<a href="https://github.com/" title="GitHub"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/github.png" /></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/vscode.png" /></a>
-<a href="https://www.jetbrains.com/phpstorm/" title="PHPStorm"><img src="https://github.com/hussainweb/hussainweb/blob/main/icons/phpstorm.png" /></a>
+<a href="https://reactjs.org/" title="React"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/react.png" /></a>
+<a href="https://git-scm.com/" title="Git"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/git.png" /></a>
+<a href="https://wordpress.org/" title="WordPress"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/wordpress.png" /></a>
+<a href="https://www.docker.com/" title="Docker"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/docker.png" /></a>
+<a href="https://github.com/" title="GitHub"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/github.png" /></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/vscode.png" /></a>
+<a href="https://www.jetbrains.com/phpstorm/" title="PHPStorm"><img src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/phpstorm.png" /></a>
 
 <br/><br/>
 <!-- <details>
@@ -123,7 +123,7 @@ I am constantly learning, I am currently interested in the area of industrial cy
 <br/>
 
 <!--Snake contribution gif  -->
-![snake gif](https://github.com/hannaromero2/hannaromero2/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://raw.githubusercontent.com/hannaromero2/hannaromero2/output/github-contribution-grid-snake.gif)
 
 <br/><br/>
 ## Check out my github stats
