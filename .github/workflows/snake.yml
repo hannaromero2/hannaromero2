@@ -2,29 +2,38 @@
 
 name: Generate Snake
 
-on:
-  schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-
 permissions:
   contents: write
+
+# Controls when the action will run. This action runs every 6 hours.
+on:
+  schedule:
+    # every 6 hours
+    - cron: "0 */6 * * *"
+
+  # This command allows us to run the Action automatically from the Actions tab.
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
+      # Checks repo under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v4
 
-      - uses: Platane/snk@v3
-        id: snake-gif
+      # Generates the snake
+      - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: hannaromero2
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-snake.svg
 
-      - name: Push snake to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      # Show the status of the build. Makes it easier for debugging (if there's any issues).
+      - run: git status
+
+      # Push the changes to the output branch
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
