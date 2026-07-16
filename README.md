@@ -75,19 +75,6 @@
 
 <hr />
 
-## 📕 &nbsp;Pinned Repositories
-
-<p align="center">
-  <a href="https://github.com/hannaromero2/My-spotify-clustering">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hannaromero2&repo=My-spotify-clustering&theme=buefy" />
-  </a>
-  <a href="https://github.com/hannaromero2/CrazyQuiz_AndroidGame">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hannaromero2&repo=CrazyQuiz_AndroidGame&theme=buefy" />
-  </a>
-</p>
-
-<hr />
-
 ## 🤝 &nbsp;Let's Connect!
 
 I'm always interested in discussing:
